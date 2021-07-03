@@ -2,3 +2,7 @@ h1{
     color: orange;
     background-color: aqua;
 }
+p{
+    background-color:red;
+    display: inline;
+}
